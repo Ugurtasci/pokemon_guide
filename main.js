@@ -20,3 +20,7 @@ const bg_color = {
   dragon: "#7766EE",
   ice: "#66CCFF",
 };
+
+searchBtn.addEventListener("click", () => {
+  search.classList.toggle("active");
+});
