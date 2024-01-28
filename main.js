@@ -42,7 +42,7 @@ searchInput.addEventListener("input", (e) => {
 });
 
 const fetchPokemons = async () => {
-  for (let i = 1; 1 <= pokemon_count; i++) {
+  for (let i = 1; i <= pokemon_count; i++) {
     await getPokemon(i);
   }
 };
@@ -51,7 +51,8 @@ const getPokemon = async (id) => {
   const url = `https://pokeapi.co/api/v2/pokemon/${id}`;
   const res = await fetch(url);
   const data = await res.json();
-  //console.log(data);
+  console.log(data);
+
   createPokemonCard(data);
 };
 
@@ -69,7 +70,7 @@ const createPokemonCard = (pokemon) => {
   const pokemonDivInnerHTML = `
   <div class="image-container">
   <img
-    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png"
     alt="First Pokemon"
   />
 </div>
@@ -90,7 +91,7 @@ const createPokemonCard = (pokemon) => {
 </div>
 `;
 
-  pokemonDiv.InnerHTML = pokemonDivInnerHTML;
+  pokemonDiv.innerHTML = pokemonDivInnerHTML;
   poke_container.appendChild(pokemonDiv);
 };
 
