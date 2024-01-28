@@ -12,7 +12,3 @@ Pokedex Guide Projesi, Pokemon dünyasındaki Pokemon türlerini, özelliklerini
  -HTML
  -CSS
  -JavaScript
-
- <h4>Ekran Görüntüsü</h4>
-
-![](ekran-görüntüsü.gif)
