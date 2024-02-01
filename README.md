@@ -4,9 +4,7 @@ Pokedex Guide Projesi, Pokemon dünyasındaki Pokemon türlerini, özelliklerini
 <h3>Özellikler</h3>
 
 - Projede bulunan kapsamlı veri tabanı, çeşitli Pokemon türleri, yetenekleri ve istatistikleri içerir.
-
 - Kullanıcılar, Pokemonların adlarına, türlerine veya özelliklerine göre arayabilir ve filtreleyebilir...
-
 - Her Pokemon için detaylı bilgiler, resimler ve istatistikler içerir.
 
 <h3>Kullanılan Teknolojiler</h3>
@@ -16,4 +14,5 @@ Pokedex Guide Projesi, Pokemon dünyasındaki Pokemon türlerini, özelliklerini
 - JavaScript
 
  <h4>Ekran Görüntüsü</h4>
+ 
   ![](Ekran-Görüntüsü.gif)
