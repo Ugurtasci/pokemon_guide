@@ -5,6 +5,7 @@ Pokedex Guide Projesi, Pokemon dünyasındaki Pokemon türlerini, özelliklerini
 -Geniş Veri Tabanı: Projede bulunan kapsamlı veri tabanı, çeşitli Pokemon türleri, yetenekleri ve istatistikleri içerir.
 
 -Arama ve Filtreleme: Kullanıcılar, Pokemonların adlarına, türlerine veya özelliklerine göre arayabilir ve filtreleyebilir...
+
 -Detaylı Bilgiler: Her Pokemon için detaylı bilgiler, resimler ve istatistikler içerir.
 
 <h3>Kullanılan Teknolojiler</h3>
