@@ -12,4 +12,5 @@ Pokedex Guide Projesi, Pokemon dünyasındaki Pokemon türlerini, özelliklerini
  - JavaScript
 
  <h4>Ekran Görüntüsü</h4>
-  ![](Ekran-Görüntüsü.gif)
+  
+C:\Users\MSI\OneDrive\Masaüstü\Projeler\Pokemon Guide\Ekran Görüntüsü.gif
