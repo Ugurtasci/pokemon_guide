@@ -13,4 +13,4 @@ Pokedex Guide Projesi, Pokemon dünyasındaki Pokemon türlerini, özelliklerini
 
  <h4>Ekran Görüntüsü</h4>
   
-C:\Users\MSI\OneDrive\Masaüstü\Projeler\Pokemon Guide\Ekran Görüntüsü.gif
+![](Ekran-Görüntüsü.gif)
