@@ -15,4 +15,4 @@ Pokedex Guide Projesi, Pokemon dünyasındaki Pokemon türlerini, özelliklerini
 
  <h4>Ekran Görüntüsü</h4>
  
-  ![](Ekran-Görüntüsü.gif)
+ ![Alt text](<Ekran Görüntüsü.gif>)
